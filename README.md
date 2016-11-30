@@ -3,4 +3,4 @@
 
 A social media platform for really hip puppies.
 
-![Home Page](homepage.png)
+![Home Page](images/homepage.png)
